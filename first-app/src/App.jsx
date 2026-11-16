@@ -8,6 +8,7 @@ function App() {
   return(
     <>
       <h1>Welcome to React</h1>
+      <h2>Thank you all</h2>      
       <Home />
       <Contact />
       <About />
